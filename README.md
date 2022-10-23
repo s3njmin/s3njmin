@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Benjamin
-- 👀 I’m interested in data science and cybersecurity
+- 👀 I’m interested in data science, cybersecurity and blockchain projects
 - 🌱 I’m currently learning linear algebra, spring development, data structures and algorithms, networking
 - 💞️ I’m looking to collaborate on building a mini blockchain based project
 - 📫 How to reach me: https://www.linkedin.com/in/benjaminsuliheng/
