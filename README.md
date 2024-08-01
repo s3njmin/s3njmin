@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Benjamin
-- 👀 I’m interested in large language models, machine learning projects
+- 👀 I’m interested in large language models, machine learning and blockchain projects
 - 📫 How to reach me: https://www.linkedin.com/in/benjaminsuliheng/
 
 <!---
